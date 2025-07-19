@@ -1,0 +1,3 @@
+[submodule "PrepLink-Backend"]
+	path = PrepLink-Backend
+	url = https://github.com/apk-official/PrepLink-Backend.git
